@@ -2,10 +2,10 @@
 title: "A Memory-Efficient Edge Inference Accelerator with XOR-based Model Compression"
 collection: publications
 category: manuscripts
-permalink: /publication/DAC_24
+permalink: /publication/DAC_23
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-07-09
-venue: 'Design Automation Conference (DAC) 2024'
+venue: 'Design Automation Conference (DAC)'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10248005)'
 citation: 'H. Lee, J. Hong, S. Kim, S. Y. Lee and J. W. Lee.'
