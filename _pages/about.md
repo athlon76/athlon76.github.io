@@ -18,4 +18,4 @@ Publications
 
 2023
 -----
-[A Memory-Efficient Edge Inference Accelerator with XOR-based Model Compression (DAC 2023)](\files\DAC_23.pdf)
+- [A Memory-Efficient Edge Inference Accelerator with XOR-based Model Compression (DAC)](\files\DAC_23.pdf)
