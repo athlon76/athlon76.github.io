@@ -18,9 +18,9 @@ Publications
 
 2024
 -----
-- [3D Gaussian Can Be Sparser Than You Thought: Efficient Rendering via Learned Fragment Pruning (NeurIPS)](\files\NeurIPS_24.pdf)
-- [VGA: Hardware Accelerator for Scalable Long Sequence Model (MICRO)](\files\MICRO_24.pdf)
+- [NeurIPS] [3D Gaussian Can Be Sparser Than You Thought: Efficient Rendering via Learned Fragment Pruning](\files\NeurIPS_24.pdf)
+- [MICRO] [VGA: Hardware Accelerator for Scalable Long Sequence Model](\files\MICRO_24.pdf)
 
 2023
 -----
-- [A Memory-Efficient Edge Inference Accelerator with XOR-based Model Compression (DAC)](\files\DAC_23.pdf)
+- [DAC] [A Memory-Efficient Edge Inference Accelerator with XOR-based Model Compression](\files\DAC_23.pdf)
