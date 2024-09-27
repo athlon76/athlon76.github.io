@@ -12,3 +12,11 @@ I am a 1st year Computer Science Ph.D. student in Georgia Institute of Technolog
 Research
 ======
 I am exploring the application of large language models (LLMs) to speed up and lower the entrance barrier of hardware design. This includes automatic generation of RTL for various hardware designs.
+
+Publications
+=====
+
+2023
+-----
+[A Memory-Efficient Edge Inference Accelerator with XOR-based Model Compression]
+- H. Lee, J. Hong, S. Kim, S. Y. Lee and J. W. Lee (DAC '24)
