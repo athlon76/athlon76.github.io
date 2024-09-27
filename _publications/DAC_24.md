@@ -2,7 +2,7 @@
 title: "A Memory-Efficient Edge Inference Accelerator with XOR-based Model Compression"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/DAC_24
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-07-09
 venue: 'Design Automation Conference (DAC) 2024'
