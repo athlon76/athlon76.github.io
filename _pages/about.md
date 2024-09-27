@@ -18,5 +18,4 @@ Publications
 
 2023
 -----
-[A Memory-Efficient Edge Inference Accelerator with XOR-based Model Compression]
-- H. Lee, J. Hong, S. Kim, S. Y. Lee and J. W. Lee (DAC '24)
+[A Memory-Efficient Edge Inference Accelerator with XOR-based Model Compression (DAC 2023)](\files\DAC_23.pdf)
