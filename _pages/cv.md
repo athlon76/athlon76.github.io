@@ -16,17 +16,15 @@ Education
 
 Work experience
 ======
-* Graduate Research Assistant (Fall '24 -)
-  * Georgia Institute of Technology
-  * Supervisor: Prof. Celine Lin
+* Graduate Research Assistant (Fall '24 - Spring '25)
+  * Georgia Institute of Technology (Supervisor: Prof. Celine Lin)
 
 * Undergraduate Research Assistant (Fall '22 - Summer '23)
-  * Seoul National University
-  * Supervisor: Prof. Jae W. Lee
+  * Seoul National University (Supervisor: Prof. Jae W. Lee)
 
 * Undergraduate Research Assistant (Summer '22)
-  * Seoul National University
-  * Supervisor: Prof. Yongsoo Song
+  * Seoul National University (Supervisor: Prof. Yongsoo Song)
+
 
 Publications
 ======

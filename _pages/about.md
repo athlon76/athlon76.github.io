@@ -22,3 +22,7 @@ Publications
 - [NeurIPS '24] [3D Gaussian Can Be Sparser Than You Thought: Efficient Rendering via Learned Fragment Pruning](\files\NeurIPS_24.pdf)
 - [MICRO '24] [VGA: Hardware Accelerator for Scalable Long Sequence Model](\files\MICRO_24.pdf)
 - [DAC '23] [A Memory-Efficient Edge Inference Accelerator with XOR-based Model Compression](\files\DAC_23.pdf)
+
+CV
+====
+[Link](\files\CV_Jihoon_Hong_03_31_2025.pdf)
