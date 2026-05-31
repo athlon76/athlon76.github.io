@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, Georgia Institute of Technology, 2029 (expected)
+* Ph.D in Machine Learning, Georgia Institute of Technology, 2029 (expected)
 * B.S. in Economics & Computer Science, Seoul National University, 2024
 
 Work experience

@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Machine Learning Ph.D. student in the School of Electrical and Computer Engineering, Georgia Institute of Technology.
+Machine Learning Ph.D. student in the School of Electrical and Computer Engineering, Georgia Institute of Technology. Co-advised by [Dr. Sara Fridovich-Keil](https://sarafridov.github.io/) in the Voila Lab, and [Dr. Glen Chou](https://glenchou.github.io/) in the Trustworthy Robotics Lab.
 
 Research
 ======
@@ -17,12 +17,8 @@ I have been exploring 2 threads of research:
 
 Publications
 =====
-- [ACL '25] [LAMB: A Training-Free Method to Enhance the Long-Context Understanding of SSMs via Attention-Guided Token Filtering]
-- [ICLR '25] [LongMamba: Enhancing Mamba's Long-Context Capabilities via Training-Free Receptive Field Enlargement](\files\ICLR_25.pdf)
-- [NeurIPS '24] [3D Gaussian Can Be Sparser Than You Thought: Efficient Rendering via Learned Fragment Pruning](\files\NeurIPS_24.pdf)
-- [MICRO '24] [VGA: Hardware Accelerator for Scalable Long Sequence Model](\files\MICRO_24.pdf)
-- [DAC '23] [A Memory-Efficient Edge Inference Accelerator with XOR-based Model Compression](\files\DAC_23.pdf)
+See the [Publications]({{ base_path }}/publications/) page for the full list.
 
 CV
 ====
-[Link](\files\CV_Jihoon_Hong_03_31_2025.pdf)
+See the [CV]({{ base_path }}/cv/) page, or [download the PDF](/files/CV_Jihoon_Hong_03_31_2025.pdf).
