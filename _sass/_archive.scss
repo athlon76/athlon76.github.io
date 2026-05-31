@@ -243,3 +243,33 @@
     }
   }
 }
+
+/*
+   Publications listing
+   ========================================================================== */
+
+.publication-list {
+  /* Reclaim the right-hand space reserved for teaser images (unused here),
+     so titles and author lists can use the full page width */
+  .list__item {
+    padding-right: 0;
+  }
+
+  /* Category section headings — larger than the paper titles below them */
+  .publication-list__category {
+    margin: 1.5em 0 0.25em;
+    font-size: $type-size-3;
+  }
+
+  /* Paper titles — smaller than category headings, tightly spaced */
+  .archive__item-title {
+    margin-top: 0.6em;
+    margin-bottom: 0.15em;
+    font-size: $type-size-4;
+  }
+
+  /* Tighten the venue / authors / [paper] lines within each entry */
+  .archive__item p {
+    margin: 0 0 0.15em;
+  }
+}
