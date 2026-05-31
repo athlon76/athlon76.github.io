@@ -11,7 +11,7 @@ Machine Learning Ph.D. student in the School of Electrical and Computer Engineer
 
 Research
 ======
-My research interests lie in the intersection of computer vision and robotic with a focus on improving the reliability, robustness, and safety of robotics systems that are learning-based with vision components, including but not limited to world action models. To this end, I am exploring in two parallel directions that I aim to reconcile into a single coherent framework in future works.
+My research interests lie in the intersection of computer vision and robotic with a focus on improving the reliability, robustness, and safety of robotics systems that are learning-based with vision components, including but not limited to world action models. To this end, I am exploring in two parallel directions that I aim to reconcile into a single coherent framework in future works:
 1. Uncertainty quantification and out-of-distribution detection techniques for generative models such as diffusion
 2. Control-theoretic tools such as control barrier function (CBF), linear quadratic regulators (LQR), and reachability analysis and their application to robotics systems
 
