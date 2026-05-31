@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 1st year Computer Science Ph.D. student in Georgia Institute of Technology.
+I am a Machine Learning Ph.D. student in the School of Electrical and Computer Engineering, Georgia Institute of Technology.
 
 Research
 ======
