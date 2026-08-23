@@ -11,8 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Machine Learning, Georgia Institute of Technology, 2029 (expected)
-* B.S. in Economics & Computer Science, Seoul National University, 2024
+* Ph.D. in Machine Learning, Georgia Institute of Technology, 2024 - 2029 (expected)
+  * Advisors: Dr. Sara Fridovich-Keil and Dr. Glen Chou
+* B.A. in Economics & B.S. in Computer Science and Engineering, Seoul National University, 2017 - 2024
+  * Summa Cum Laude (GPA: 3.93/4.0)
+  * Minor in Mathematics
 
 Work experience
 ======
