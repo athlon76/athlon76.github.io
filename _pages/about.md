@@ -7,17 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-Machine Learning Ph.D. student in the School of Electrical and Computer Engineering, Georgia Institute of Technology. Co-advised by [Dr. Sara Fridovich-Keil](https://sarafridov.github.io/) in the Voila Lab, and [Dr. Glen Chou](https://glenchou.github.io/) in the Trustworthy Robotics Lab.
+I am a Machine Learning Ph.D. student in the School of Electrical and Computer Engineering at the Georgia Institute of Technology, co-advised by [Dr. Sara Fridovich-Keil](https://sarafridov.github.io/) in the VOILA Lab and [Dr. Glen Chou](https://glenchou.github.io/) in the Trustworthy Robotics Lab.
 
 Research
 ======
-My research interests lie in the intersection of computer vision and robotic with a focus on improving the reliability, robustness, and safety of robotics systems that are learning-based with vision components, including but not limited to world action models. To this end, I am exploring in two parallel directions that I aim to reconcile into a single coherent framework in future works:
-1. Uncertainty quantification and out-of-distribution detection techniques for generative models such as diffusion
-2. Control-theoretic tools such as control barrier function (CBF), linear quadratic regulators (LQR), and reachability analysis and their application to robotics systems
+I work on generative AI, with a focus on inference-time control of diffusion and flow models. My current research treats the internal activations of diffusion transformers as a dynamical system and uses tools from optimal control, such as reduced-order linear dynamics and the linear quadratic regulator (LQR), to steer generation at inference time without retraining or fine-tuning. I apply these methods in two settings:
+1. Making text-to-video generation safer and more controllable
+2. Making world action models for robot manipulation more robust to distribution shift
 
-<!-- I have been exploring 2 threads of research:
-1. Improving the performance and efficiency of language models, with a focus on State Space Based models such as Mamba
-2. The application of language models to speed up and lower the entrance barrier of hardware design, including automatic generation of RTL -->
+In parallel, I develop diffusion-based methods for detecting and localizing distribution shifts, including out-of-distribution detection in inverse problems and local anomaly detection.
+
+<!-- Earlier in my Ph.D., I worked on provably safe navigation with compressed 3D Gaussian splat scenes. Before that, I worked on efficient long-context sequence models and hardware accelerators for machine learning inference. -->
 
 Publications
 =====
